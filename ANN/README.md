@@ -31,12 +31,6 @@ The goal is to understand how forward propagation, backpropagation, and gradient
 
 Weights are updated using gradient descent:
 
-[
-W := W - \alpha \cdot \frac{\partial L}{\partial W}
-]
-
-where ( \alpha ) is the learning rate and ( L ) is binary cross-entropy loss.
-
 ---
 
 ###  What you will learn
